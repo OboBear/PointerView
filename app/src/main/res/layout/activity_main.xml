@@ -8,6 +8,7 @@
     tools:context="com.example.obo.pointer.MainActivity">
 
     <com.example.obo.pointer.PointerView
+        android:id="@+id/point_view"
         android:layout_width="300dp"
         android:layout_height="300dp"/>
 
